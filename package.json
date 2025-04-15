@@ -2,6 +2,6 @@
   "type": "module",
   "dependencies": {
     "@supabase/supabase-js": "^2.39.5",
-    "@emailjs/nodejs": "^3.10.0"
+    "@emailjs/nodejs": "3.3.0"
   }
 }
