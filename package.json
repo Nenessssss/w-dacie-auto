@@ -1,9 +1,1 @@
-{
-  "name": "w-dacie",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "@supabase/supabase-js": "^2.39.5",
-    "@emailjs/nodejs": "^3.11.0"
-  }
-}
+{}
